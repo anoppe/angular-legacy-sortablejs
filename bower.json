@@ -1,0 +1,27 @@
+{
+  "name": "angular-legacy-sortablejs",
+  "description": "Angular 1.x (legacy) directive for SortableJS.",
+  "main": "angular-legacy-sortable.js",
+  "dependencies": {
+    "sortablejs": "latest"
+  },
+  "authors": [
+    "RubaXa <trash@rubaxa>",
+    "anoppe <auke@noppe.nl>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "sortable",
+    "ng-sortable",
+    "sortablejs"
+  ],
+  "homepage": "https://github.com/anoppe/angular-legacy-sortablejs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
