@@ -1,5 +1,5 @@
 {
-  "name": "angular-legacy-sortablejs",
+  "name": "angular-legacy-sortablejs-maintained",
   "description": "Angular 1.x (legacy) directive for SortableJS.",
   "main": "angular-legacy-sortable.js",
   "dependencies": {
